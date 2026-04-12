@@ -13,3 +13,9 @@ Context中的别名代指为概念别名。
 
 概念别名是一种概念实现方式。
 
+## 概念先验 Concept Priors
+
+Priors of Concept Model，在概念模型推断过程中，用于推理的先验内容。
+
+
+
