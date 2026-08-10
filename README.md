@@ -1,6 +1,6 @@
 ## SPATEM(ToC)
 
-SPATEM(Spatio-Temporal Cognition Framework or Concept Theory)是一种截面具化的概念理论，或者称为一种时空认知框架。  
+SPATEM(Spatio-Temporal Cognition Framework or Concept Theory)是一种截面时空的概念理论，或者称为一种时空认知框架。  
 
 or [ Theory of Concepts ]
 
